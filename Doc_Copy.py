@@ -1,4 +1,5 @@
 import time
+from Doc_Copy import shutil
 start_time = time.time()
 
 #FIND DOCUMENTS PATH
